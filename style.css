@@ -1,0 +1,16 @@
+.cont {
+  padding-top: 80px;
+  padding-bottom: 33px;
+  padding-left: 36px;
+  padding-right: 18px;
+}
+.card {
+  width: 18rem;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+}
+.card-img-top {
+  height: 180px;
+  object-fit: contain;
+}
